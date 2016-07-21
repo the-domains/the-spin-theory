@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-07-21T16:50:06.748Z'
+datePublished: '2016-07-21T16:52:01.487Z'
 sourcePath: >-
   _posts/2016-07-21-a-few-days-ago-someone-asked-me-a-question-i-wasnt-ready-f.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/030e92b4-f94b-4432-8ef5-134f8abb2430.jpg
-author: []
+author:
+  - name: Spin Rodriguez
 via: {}
-dateModified: '2016-07-21T16:50:06.337Z'
+dateModified: '2016-07-21T16:52:01.119Z'
 title: 5 days
 publisher: {}
 description: >-
