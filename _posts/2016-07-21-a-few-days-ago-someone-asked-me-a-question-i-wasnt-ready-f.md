@@ -1,27 +1,28 @@
 ---
+datePublished: '2016-07-21T16:50:06.748Z'
+sourcePath: >-
+  _posts/2016-07-21-a-few-days-ago-someone-asked-me-a-question-i-wasnt-ready-f.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/030e92b4-f94b-4432-8ef5-134f8abb2430.jpg
+author: []
+via: {}
+dateModified: '2016-07-21T16:50:06.337Z'
+title: 5 days
+publisher: {}
 description: >-
   A few days ago, someone asked me a question I wasn’t ready for. They asked,
   “how many days of the last year can you remember?” It was an interesting
   question and, in his opinion, some sort of measure of the quality of your life
   - five being the measure of success. In all honesty, I didn’t have a great
   answer at the time, but here goes nothing:
-dateModified: '2016-07-21T03:43:25.250Z'
-datePublished: '2016-07-21T03:43:35.346Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/030e92b4-f94b-4432-8ef5-134f8abb2430.jpg
 starred: false
-sourcePath: >-
-  _posts/2016-07-21-a-few-days-ago-someone-asked-me-a-question-i-wasnt-ready-f.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+# 5 days
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030e92b4-f94b-4432-8ef5-134f8abb2430.jpg)
 
 A few days ago, someone asked me a question I wasn't ready for. They asked, "how many days of the last year can you remember?" It was an interesting question and, in his opinion, some sort of measure of the quality of your life - five being the measure of success. In all honesty, I didn't have a great answer at the time, but here goes nothing:
