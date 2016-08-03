@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-08-03T03:16:30.581Z'
+datePublished: '2016-08-03T03:16:53.736Z'
+sourcePath: _posts/2016-08-03-he-just-started-talking-to-me-you-know-its-not-like-i-cou.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9372ad61-ef5f-4928-8afb-27f5a1f82dc1.jpg
 author: []
 via: {}
-dateModified: '2016-08-03T03:13:51.831Z'
+dateModified: '2016-08-03T03:16:53.027Z'
 title: ''
 publisher: {}
 description: >-
   He just started talking to me, you know. It’s not like I could stop him.
   Several sheets to the wind, he was going to say what he wanted to say. 
 starred: false
-sourcePath: _posts/2016-08-03-he-just-started-talking-to-me-you-know-its-not-like-i-cou.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b382a3e296e613e1034bc52632858b90/croprotate.jpg?cropheight=2001&cropwidth=3000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9372ad61-ef5f-4928-8afb-27f5a1f82dc1.jpg&x=0&y=0)
+![Town Lake Gazebo - Austin, TX](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b382a3e296e613e1034bc52632858b90/croprotate.jpg?cropheight=2001&cropwidth=3000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9372ad61-ef5f-4928-8afb-27f5a1f82dc1.jpg&x=0&y=0)
 
 He just started talking to me, you know. It's not like I could stop him. Several sheets to the wind, he was going to say what he wanted to say. 
 > 
