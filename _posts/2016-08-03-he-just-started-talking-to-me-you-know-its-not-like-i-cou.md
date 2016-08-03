@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T03:19:14.974Z'
+datePublished: '2016-08-03T03:44:28.563Z'
 sourcePath: _posts/2016-08-03-he-just-started-talking-to-me-you-know-its-not-like-i-cou.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9372ad61-ef5f-4928-8afb-27f5a1f82dc1.jpg
@@ -7,7 +7,7 @@ author:
   - name: Spin Rodriugez
     url: 'https://500px.com/spinrodriguez'
 via: {}
-dateModified: '2016-08-03T03:19:14.353Z'
+dateModified: '2016-08-03T03:44:27.923Z'
 title: Skylight
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ _type: MediaObject
 
 ---
 # Skylight
-![Town Lake Gazebo - Austin, TX](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b382a3e296e613e1034bc52632858b90/croprotate.jpg?cropheight=2001&cropwidth=3000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9372ad61-ef5f-4928-8afb-27f5a1f82dc1.jpg&x=0&y=0)
+![Town Lake Gazebo - Austin, TX](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa773c5a687f48f3d4dd0ffc548c66511c52c330.jpg)
 
 He just started talking to me, you know. It's not like I could stop him. Several sheets to the wind, he was going to say what he wanted to say.
 
@@ -29,4 +29,4 @@ He just started talking to me, you know. It's not like I could stop him. Several
 
 I'm still not simple enough, I suppose. I could get rid of every last thing I owned and still not get it like he did. Like some sort of drunken Buddha, he had transcended us all.
 
-He'll die out here, twenty feet away from the memorial to other like him. But he'll listen to that water all the way into the afterlife.
+He'll die out here, twenty feet away from the memorial to others like him. But he'll listen to that water all the way into the afterlife.
