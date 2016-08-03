@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-07-21T16:52:01.487Z'
+datePublished: '2016-08-03T03:45:58.999Z'
 sourcePath: >-
   _posts/2016-07-21-a-few-days-ago-someone-asked-me-a-question-i-wasnt-ready-f.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/030e92b4-f94b-4432-8ef5-134f8abb2430.jpg
 author:
   - name: Spin Rodriguez
+    url: 'https://500px.com/spinrodriguez'
 via: {}
-dateModified: '2016-07-21T16:52:01.119Z'
+dateModified: '2016-08-03T03:45:58.458Z'
 title: 5 days
 publisher: {}
 description: >-
@@ -24,7 +25,7 @@ _type: MediaObject
 
 ---
 # 5 days
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030e92b4-f94b-4432-8ef5-134f8abb2430.jpg)
+![Tracks near Oltorf - Austin, TX](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030e92b4-f94b-4432-8ef5-134f8abb2430.jpg)
 
 A few days ago, someone asked me a question I wasn't ready for. They asked, "how many days of the last year can you remember?" It was an interesting question and, in his opinion, some sort of measure of the quality of your life - five being the measure of success. In all honesty, I didn't have a great answer at the time, but here goes nothing:
 
