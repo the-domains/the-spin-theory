@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T03:45:58.999Z'
+datePublished: '2016-08-03T03:55:05.139Z'
 sourcePath: >-
   _posts/2016-07-21-a-few-days-ago-someone-asked-me-a-question-i-wasnt-ready-f.md
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ author:
   - name: Spin Rodriguez
     url: 'https://500px.com/spinrodriguez'
 via: {}
-dateModified: '2016-08-03T03:45:58.458Z'
+dateModified: '2016-08-03T03:55:04.323Z'
 title: 5 days
 publisher: {}
 description: >-
